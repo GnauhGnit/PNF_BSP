@@ -9,7 +9,7 @@ The probabilistic niching evolutionary computation framework is proposed to solv
 
 `$ make`
 Two executable files named PNF_DE and PNF_PSO are available in the current directory.
-`$ ./sh`
+`$ ./run.sh`
 Run the codes in the terminal.
 
 ## Paper 
